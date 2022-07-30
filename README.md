@@ -4,8 +4,5 @@
 <p>Just a young French lad, working on a few things, such as <a href="https://www.minecraft.net" target="_blank">Minecraft ⬈</a> mods, or <a href="https://www.discord.com" target="_blank">Discord ⬈</a> bots (although these I might let down, seeing what the Discord API is becoming)</p>
 <p>Student in computing sciences, having bases in Python, JS, Java, C, PHP, HTML/CSS, PHP, XML... And always learning, as for there is always room to improve ourselves.</p>
 
-
-<!---
-NerjalNosk/NerjalNosk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img align="left" alt="Language Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=NerjalNosk&show_icons=true&theme=dark" />
+<img align="right" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=NerjalNosk&show_icons=true&layout=compact&theme=dark" />
