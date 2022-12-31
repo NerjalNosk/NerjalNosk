@@ -9,4 +9,4 @@
 
 <h2>I also launched the following project(s):</h2>
 
-<a href="https://github.com/orgs/Back-to-the-Fabric/"><img align="left" alt="Back to the Fabric" src="https://raw.githubusercontent.com/NerjalNosk/NerjalNosk/pictures/bttf_icon"/></a>
+<a href="https://github.com/orgs/Back-to-the-Fabric/"><img align="left" alt="Back to the Fabric" src="https://raw.githubusercontent.com/NerjalNosk/NerjalNosk/pictures/bttf_icon.png"/></a>
