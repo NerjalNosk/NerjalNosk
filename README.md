@@ -45,4 +45,4 @@ But I can still give a few projects I intend to work on:
 
 <h3>Launched projects</h3>
 
-<a href="https://github.com/orgs/Back-to-the-Fabric/"><img align="left" alt="Back to the Fabric" src="https://raw.githubusercontent.com/NerjalNosk/NerjalNosk/main/pictures/bttf_icon.png" style="width:45%"/></a>
+<a href="https://github.com/orgs/Recraftors/"><img align="left" alt="RecraftorsMC" src="https://raw.githubusercontent.com/NerjalNosk/NerjalNosk/main/pictures/mcr_icon.png" style="width:45%"/></a>
