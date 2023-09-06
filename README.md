@@ -27,14 +27,16 @@ But I can still give a few projects I intend to work on:
     <ul>
       <li>Update my outdated mods, such as the not-so-little-afterall <a href="https://github.com/NerjalNosk/Conditional_keep_inventory">conditional keep inventory</a></li>
       <li>Implement <a href="https://github.com/TheDeathlyCow/frostiful">Frostiful</a> compat in <a href="https://github.com/Snownee/SnowRealMagic">SnowRealMagic</a></li>
-      <li>Implement <a href="https://github.com/CorgiTaco/Enhanced-Celestials">Enhanced Celestials</a> compat in <a href="https://modrinth.com/mod/moonphaseinfo%2B">Moon Phase Info+</li>
       <li>Implement literally any mod compat to <a href="https://github.com/AlexanderRyb/LeaveSlabs">Leaves slabs (or just make my own version, with modded leaves support, idk)</li>
     </ul>
   </li>
   <li>
     <p>Other games modding</p>
     <ul>
-      <li>Wait for more progress on [Lifecraft](https://lifecraft.life) and try to add whatever dumb ideas my head may come up to</li>
+      <li>Wait for more progress on <a href="https://lifecraft.life">Lifecraft</a> and try to add whatever dumb ideas my head may come up to</li>
+    </ul>
+    <ul>
+      <li>Maybe look into modded versions of Android apps? Idk tbh, will have to look real deep into what can be exploited out of Android and apps interaction, to make things fun</li>
     </ul>
   </li>
 </ul>
