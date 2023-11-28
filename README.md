@@ -25,9 +25,11 @@ But I can still give a few projects I intend to work on:
   <li>
     <p>Minecraft modding</p>
     <ul>
-      <li>Update my outdated mods, such as the not-so-little-afterall <a href="https://github.com/NerjalNosk/Conditional_keep_inventory">conditional keep inventory</a></li>
-      <li>Implement <a href="https://github.com/TheDeathlyCow/frostiful">Frostiful</a> compat in <a href="https://github.com/Snownee/SnowRealMagic">SnowRealMagic</a></li>
-      <li>Implement literally any mod compat to <a href="https://github.com/AlexanderRyb/LeaveSlabs">Leaves slabs (or just make my own version, with modded leaves support, idk)</li>
+      <li>Create new, more or less stupid mods, on the account of the <a href="https://github.com/RecraftorsMC">Recraftors Team</a></li>
+      <li>Update my outdated mods, or simply keep my active ones up to date</li>
+      <li>The crazy <code>Almanac</code> project I got myself on, for the Recraftors Team</li>
+      <!--li>Implement <a href="https://github.com/TheDeathlyCow/frostiful">Frostiful</a> compat in <a href="https://github.com/Snownee/SnowRealMagic">SnowRealMagic</a></li>
+      <li>Implement literally any mod compat to <a href="https://github.com/AlexanderRyb/LeaveSlabs">Leaves slabs (or just make my own version, with modded leaves support, idk)</li-->
     </ul>
   </li>
   <li>
