@@ -1,8 +1,8 @@
 <h1>Introduction</h1>
 
 <p>Nerjal Nosk here</p>
-<p>Just a young French lad, working on a few things, such as <a href="https://www.minecraft.net" target="_blank">Minecraft ⬈</a> mods, or <a href="https://www.discord.com" target="_blank">Discord ⬈</a> bots. I also started working with other APIs such as the <a href="https://www.twitter.com">Twitter API</a>.</p>
-<p>Student in computing sciences, having bases in Python, JS, Java, C, PHP, HTML/CSS, PHP, XML... And always learning, as for there is always room to improve ourselves.</p>
+<p>Just a young French lad, working on a few things, such as <a href="https://www.minecraft.net" target="_blank">Minecraft ⬈</a> mods, or <a href="https://www.discord.com" target="_blank">Discord ⬈</a> bots.
+<p>Student in computing sciences, having bases in Java, Python, JS, C, PHP, HTML/CSS, PHP... And always learning, as for there is always room to improve ourselves.</p>
 
 <table style="border:none">
   <tr style="border:none">
@@ -16,6 +16,15 @@
 I work on a whole buch of stuff, whether it is DB setup, app building, website creation, network management...<br>
 I also like Minecraft mod programming.
 
+<h3>Most active projects</h3>
+
+My most active (personal) projects lately are the following:
+
+<ul>
+  <li><a href="https://github.com/NerjalNosk/JsonLight"><b>JsonLight</b></a> A Java Json parsing and manipulation library, going over and beyond Json5, adding its own particular tweaks</li>
+  <li><a href="https://github.com/NerjalNosk/StringCursor"><b>StringCursor</b></a> A Java cursored text building library, which provides a headless implementation for a user interface's text input</li>
+</ul>
+
 <h3>Some future projects</h3>
 
 Not much to say here sorry. There are a buch of projects that I intend to work on, but most are either personal or some clients' requests, so I cannot talk about it, except saying I did, it when it'll be done.
@@ -28,8 +37,6 @@ But I can still give a few projects I intend to work on:
       <li>Create new, more or less stupid mods, on the account of the <a href="https://github.com/RecraftorsMC">Recraftors Team</a></li>
       <li>Update my outdated mods, or simply keep my active ones up to date</li>
       <li>The crazy <code>Almanac</code> project I got myself on, for the Recraftors Team</li>
-      <!--li>Implement <a href="https://github.com/TheDeathlyCow/frostiful">Frostiful</a> compat in <a href="https://github.com/Snownee/SnowRealMagic">SnowRealMagic</a></li>
-      <li>Implement literally any mod compat to <a href="https://github.com/AlexanderRyb/LeaveSlabs">Leaves slabs (or just make my own version, with modded leaves support, idk)</li-->
     </ul>
   </li>
   <li>
