@@ -2,7 +2,7 @@
 
 <h3>Foreword</h3>
 I have mostly deserted any use of this conglomerate-corrupted platform.
-Anything and everything I do is now hosted on Codeberg, which doesn't do any of that ai crap.
+Anything and everything I do is now hosted on Codeberg, which doesn't steal people's honest work for their ai.
 
 <span>
 <!-- idk -->
